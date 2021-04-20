@@ -1,5 +1,5 @@
 # deno_rwasm_string
-simple deno rust wasm example usings strings and logging to console from rust
+simple deno rust wasm example using strings
 
 most of the code taken from:
 https://github.com/littledivy/deno-ciphers
