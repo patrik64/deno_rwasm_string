@@ -3,13 +3,12 @@ name = "deno_rwasm_string"
 description = "WASM bindings to string function"
 version = "0.1.0"
 edition = "2018"
-publish = false
 
 [lib]
 crate-type = ["cdylib"]
 
 [dependencies]
-wasm-bindgen = "0.2.63"
+wasm-bindgen = "0.2.73"
 wee_alloc = { version = "0.4.5", optional = true }
 
 [profile.release]
