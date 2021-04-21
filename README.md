@@ -3,7 +3,7 @@ simple deno rust wasm example using strings
 
 to use run:
 
-```deno run --allow-read --allow-run --allow-write build.ts```
+```deno run -A build.ts```
 
 and then:
 
