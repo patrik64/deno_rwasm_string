@@ -1,5 +1,9 @@
 # deno_rwasm_string
-simple deno rust wasm example using strings
+simple deno rust wasm example using strings  
+
+before running make sure you have rust and wasm-pack installed:  
+https://www.rust-lang.org/tools/install  
+https://rustwasm.github.io/wasm-pack/installer/  
 
 to use run:
 
